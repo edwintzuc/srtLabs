@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "srtLabs"
+    }
+  },
+  "defaultProject": "srtLabs",
+  "cli": {
+    "analytics": false
+  }
 }
